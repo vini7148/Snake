@@ -35,7 +35,7 @@ Note: Here 'a.exe' is the name of the executable file.
 
 ## Game in action 
 
-![GIF](https://github.com/vini7148/Snake/blob/main/Assets/game.gif)
+![GIF](https://github.com/vini7148/Snake/blob/main/assets/game.gif)
 
 
 ## Authors
