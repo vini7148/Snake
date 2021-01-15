@@ -52,6 +52,8 @@ bool gameloop::run()
         c->update(S->dr_snake(), S->ret_food(), S->is_dead(), S->ret_score());
     }
 
+    Sleep(1000);
+
     c->end_game(S->ret_score());
 
     auto time = std::chrono::system_clock::now();
